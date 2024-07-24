@@ -1,1 +1,1 @@
-# docker-image-nextsimdg-intel
+# Creation of a docker image for nextsimdg with intel compilers
